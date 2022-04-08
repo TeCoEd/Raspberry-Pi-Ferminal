@@ -8,6 +8,5 @@ I created a retro video player a while back and always wanted to reuse the scree
 - Use Python 3+
 - This version built using Raspberry Pi 4
 
-
 - Video of project: https://www.youtube.com/watch?v=B8sxv3AvkX4
 - The orginal video display project: https://www.tecoed.co.uk/retro-player.html 
